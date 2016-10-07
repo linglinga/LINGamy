@@ -1,0 +1,6 @@
+C:\source\LINGamy\assignment 1\MyLittleProjectAmyLing\MyLittleProjectAmyLing\bin\Debug\MyLittleProjectAmyLing.exe.config
+C:\source\LINGamy\assignment 1\MyLittleProjectAmyLing\MyLittleProjectAmyLing\bin\Debug\MyLittleProjectAmyLing.exe
+C:\source\LINGamy\assignment 1\MyLittleProjectAmyLing\MyLittleProjectAmyLing\bin\Debug\MyLittleProjectAmyLing.pdb
+C:\source\LINGamy\assignment 1\MyLittleProjectAmyLing\MyLittleProjectAmyLing\obj\Debug\MyLittleProjectAmyLing.csprojResolveAssemblyReference.cache
+C:\source\LINGamy\assignment 1\MyLittleProjectAmyLing\MyLittleProjectAmyLing\obj\Debug\MyLittleProjectAmyLing.exe
+C:\source\LINGamy\assignment 1\MyLittleProjectAmyLing\MyLittleProjectAmyLing\obj\Debug\MyLittleProjectAmyLing.pdb

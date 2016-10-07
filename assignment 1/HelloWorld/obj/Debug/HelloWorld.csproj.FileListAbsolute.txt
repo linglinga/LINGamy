@@ -1,0 +1,6 @@
+C:\source\LINGamy\assignment 1\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\source\LINGamy\assignment 1\HelloWorld\bin\Debug\HelloWorld.exe
+C:\source\LINGamy\assignment 1\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\source\LINGamy\assignment 1\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+C:\source\LINGamy\assignment 1\HelloWorld\obj\Debug\HelloWorld.exe
+C:\source\LINGamy\assignment 1\HelloWorld\obj\Debug\HelloWorld.pdb

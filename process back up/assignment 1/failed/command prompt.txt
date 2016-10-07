@@ -1,0 +1,305 @@
+Microsoft Windows [Version 10.0.14393]
+(c) 2016 Microsoft Corporation. All rights reserved.
+
+C:\Users\amy>cd..
+
+C:\Users>cd..
+
+C:\>md source
+
+C:\>cd source
+
+C:\source>git clone https://github.com/linglinga/LINGamy.git
+Cloning into 'LINGamy'...
+remote: Counting objects: 3, done.
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+Unpacking objects: 100% (3/3), done.
+
+C:\source>start .
+
+C:\source> gitex
+
+C:\source>git status
+On branch master
+nothing to commit, working tree clean
+
+C:\source>git status
+On branch master
+nothing to commit, working tree clean
+
+C:\source>get status
+'get' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\source>git status
+On branch master
+nothing to commit, working tree clean
+
+C:\source>git status
+On branch master
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+        i-can-use-github.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+C:\source>git add "i-can-use-github.ext"
+fatal: pathspec 'i-can-use-github.ext' did not match any files
+
+C:\source>git add "i-can-use-github.txt"
+
+C:\source>git status
+On branch master
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+        new file:   i-can-use-github.txt
+
+
+C:\source>git status
+On branch master
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+        new file:   i-can-use-github.txt
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+  (commit or discard the untracked or modified content in submodules)
+
+        modified:   LINGamy (untracked content)
+
+
+C:\source>git add "i-can-use-github.txt"
+
+C:\source>git status
+On branch master
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+        new file:   i-can-use-github.txt
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+  (commit or discard the untracked or modified content in submodules)
+
+        modified:   LINGamy (untracked content)
+
+
+C:\source>git add <i-can-use-github.txt>
+The syntax of the command is incorrect.
+
+C:\source>git add "i-can-use-github.txt"
+
+C:\source>git status
+On branch master
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+        new file:   i-can-use-github.txt
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+  (commit or discard the untracked or modified content in submodules)
+
+        modified:   LINGamy (untracked content)
+
+
+C:\source>git status
+On branch master
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+        new file:   i-can-use-github.txt
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+  (commit or discard the untracked or modified content in submodules)
+
+        modified:   LINGamy (untracked content)
+
+
+C:\source>git add "i-can-use-github.txt"
+
+C:\source>
+C:\source>git status
+On branch master
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+        new file:   i-can-use-github.txt
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+  (commit or discard the untracked or modified content in submodules)
+
+        modified:   LINGamy (untracked content)
+
+
+C:\source>git add "LINGamy"
+
+C:\source>git status
+On branch master
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+        new file:   i-can-use-github.txt
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+  (commit or discard the untracked or modified content in submodules)
+
+        modified:   LINGamy (untracked content)
+
+
+C:\source>start .
+
+C:\source>gitex
+
+C:\source>git push
+fatal: No configured push destination.
+Either specify the URL from the command-line or configure a remote repository using
+
+    git remote add <name> <url>
+
+and then push using the remote name
+
+    git push <name>
+
+
+C:\source>git status
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+  (commit or discard the untracked or modified content in submodules)
+
+        modified:   LINGamy (untracked content)
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+C:\source>git add LINGamy
+
+C:\source>git status
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+  (commit or discard the untracked or modified content in submodules)
+
+        modified:   LINGamy (untracked content)
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+C:\source>.gitignore
+
+C:\source>git pull
+fatal: No remote repository specified.  Please, specify either a URL or a
+remote name from which new revisions should be fetched.
+
+C:\source>git pull https://github.com/linglinga/LINGamy.git
+warning: no common commits
+remote: Counting objects: 3, done.
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+Unpacking objects: 100% (3/3), done.
+From https://github.com/linglinga/LINGamy
+ * branch            HEAD       -> FETCH_HEAD
+fatal: refusing to merge unrelated histories
+
+C:\source>git pull LINGamy
+From LINGamy
+ * branch            HEAD       -> FETCH_HEAD
+fatal: refusing to merge unrelated histories
+
+C:\source>git remote add origin https://github.com/linglinga/LINGamy.git
+
+C:\source>git pull origin master
+From https://github.com/linglinga/LINGamy
+ * branch            master     -> FETCH_HEAD
+ * [new branch]      master     -> origin/master
+fatal: refusing to merge unrelated histories
+
+C:\source>git push --set-upstream origin master
+To https://github.com/linglinga/LINGamy.git
+ ! [rejected]        master -> master (non-fast-forward)
+error: failed to push some refs to 'https://github.com/linglinga/LINGamy.git'
+hint: Updates were rejected because the tip of your current branch is behind
+hint: its remote counterpart. Integrate the remote changes (e.g.
+hint: 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+C:\source>git push --set-upstream origin master
+To https://github.com/linglinga/LINGamy.git
+ ! [rejected]        master -> master (non-fast-forward)
+error: failed to push some refs to 'https://github.com/linglinga/LINGamy.git'
+hint: Updates were rejected because the tip of your current branch is behind
+hint: its remote counterpart. Integrate the remote changes (e.g.
+hint: 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+C:\source>git init
+Reinitialized existing Git repository in C:/source/.git/
+
+C:\source>git remote add origin https://github.com/linglinga/LINGamy.git
+fatal: remote origin already exists.
+
+C:\source>git push --set-upstream origin master
+To https://github.com/linglinga/LINGamy.git
+ ! [rejected]        master -> master (non-fast-forward)
+error: failed to push some refs to 'https://github.com/linglinga/LINGamy.git'
+hint: Updates were rejected because the tip of your current branch is behind
+hint: its remote counterpart. Integrate the remote changes (e.g.
+hint: 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+C:\source>git init
+Reinitialized existing Git repository in C:/source/.git/
+
+C:\source>git pull origin master
+From https://github.com/linglinga/LINGamy
+ * branch            master     -> FETCH_HEAD
+fatal: refusing to merge unrelated histories
+
+C:\source>git push --set-upstream origin master
+To https://github.com/linglinga/LINGamy.git
+ ! [rejected]        master -> master (non-fast-forward)
+error: failed to push some refs to 'https://github.com/linglinga/LINGamy.git'
+hint: Updates were rejected because the tip of your current branch is behind
+hint: its remote counterpart. Integrate the remote changes (e.g.
+hint: 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+C:\source>git reset
+
+C:\source>git commit
+On branch master
+Changes not staged for commit:
+        modified:   LINGamy (untracked content)
+
+no changes added to commit
+
+C:\source>getex commit
+'getex' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\source>gitex commit
+
+C:\source>git status
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+  (commit or discard the untracked or modified content in submodules)
+
+        modified:   LINGamy (untracked content)
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+C:\source>
