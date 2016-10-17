@@ -1,0 +1,6 @@
+C:\source\LINGamy\assignment 3\session 3 string type\bin\Debug\session 3 string type.exe.config
+C:\source\LINGamy\assignment 3\session 3 string type\bin\Debug\session 3 string type.exe
+C:\source\LINGamy\assignment 3\session 3 string type\bin\Debug\session 3 string type.pdb
+C:\source\LINGamy\assignment 3\session 3 string type\obj\Debug\session 3 string type.csprojResolveAssemblyReference.cache
+C:\source\LINGamy\assignment 3\session 3 string type\obj\Debug\session 3 string type.exe
+C:\source\LINGamy\assignment 3\session 3 string type\obj\Debug\session 3 string type.pdb

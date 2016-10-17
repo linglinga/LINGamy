@@ -1,0 +1,6 @@
+C:\source\LINGamy\assignment 3\session 3 claswork data conversion\bin\Debug\session 3 claswork data conversion.exe.config
+C:\source\LINGamy\assignment 3\session 3 claswork data conversion\bin\Debug\session 3 claswork data conversion.exe
+C:\source\LINGamy\assignment 3\session 3 claswork data conversion\bin\Debug\session 3 claswork data conversion.pdb
+C:\source\LINGamy\assignment 3\session 3 claswork data conversion\obj\Debug\session 3 claswork data conversion.csprojResolveAssemblyReference.cache
+C:\source\LINGamy\assignment 3\session 3 claswork data conversion\obj\Debug\session 3 claswork data conversion.exe
+C:\source\LINGamy\assignment 3\session 3 claswork data conversion\obj\Debug\session 3 claswork data conversion.pdb
