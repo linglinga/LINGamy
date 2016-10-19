@@ -1,6 +1,6 @@
 C:\source\LINGamy\assignment 3\HomeWork3\bin\Debug\HomeWork3.exe.config
-C:\source\LINGamy\assignment 3\HomeWork3\obj\Debug\HomeWork3.csprojResolveAssemblyReference.cache
 C:\source\LINGamy\assignment 3\HomeWork3\bin\Debug\HomeWork3.exe
 C:\source\LINGamy\assignment 3\HomeWork3\bin\Debug\HomeWork3.pdb
+C:\source\LINGamy\assignment 3\HomeWork3\obj\Debug\HomeWork3.csprojResolveAssemblyReference.cache
 C:\source\LINGamy\assignment 3\HomeWork3\obj\Debug\HomeWork3.exe
 C:\source\LINGamy\assignment 3\HomeWork3\obj\Debug\HomeWork3.pdb
