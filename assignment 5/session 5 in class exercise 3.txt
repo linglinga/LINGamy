@@ -1,0 +1,72 @@
+Session 5 - In Class Exercise No. 3 - Variables vs Object Type
+ Submit Assignment
+Due No Due Date  Points 0  Submitting a website url
+
+Variable Type vs Object Type
+
+1. of the followings is considered boxing? 
+answer: (C) boxing means putting a value into the object named myobjx.
+
+a. double dblx = fx;
+b. float fx = ix;
+c. object myobjx = fx;
+d. int ix = objy;
+
+2. Which of the followings is considered unboxing? 
+answer: (d) object is on the right, it is getting a value of an int type from the object.
+
+a. string str = ix.ToString();
+b. double dblx =(double) fx;
+c. object myobjx = fx;
+d. int ix = (int) objy;
+
+3. Object objdblx is of type double. Assign the value of this object to a variable of type float.
+float fx = objdblx;
+
+answer:float fx = (float)(double)objdblx;
+
+
+4. Object objflx is of type float. Assign the value of this object o another variable of type double.
+double dx = objflx;
+
+answer: double dx = (double)(float)objflx;
+
+
+5. Convert the string strx to a double dblx:
+double dblx =
+
+answer: use .parse: double dblx = double.parse(strx)
+
+6.Convert the integer ix to a float fx:
+float fx = 
+
+answer: use casting: float fx = (float)int ix
+
+7. Convert the double dblx to a string strx:
+string strx =
+
+answer: string strx = double.ToString();
+
+8. Object is the                  class of all other data types.
+answer: base
+
+9. What is an object (the definition)?
+answer: 
+an entity with property and definition with some functionality associated with it.
+4 functions: 
+equals(object)-determines whether the 2 are equal. 
+GetHashCode()- get a hash value for the object. 
+GetType()- get the real type of the object. 
+ToString()- returns a string that representst the type.
+
+10. How do you declare an object in C#?
+answer: by giving it a name and value: object x = 1;
+
+What is the difference between an object and a variable?
+answer: variable is a type, a value that you assign.
+object: can hold the value, but must have the property to hold the value and functionality.
+ 
+
+Copy this text with your answers to a text file in your github directory named Homework5
+
+Submit a link to your github that points to your solution. For example, http://github.com/student/it-foundation/homework5
