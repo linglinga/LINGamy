@@ -1,0 +1,6 @@
+C:\source\LINGamy\assignment 5\assignment 4 looping and arrays\bin\Debug\assignment 4 looping and arrays.exe.config
+C:\source\LINGamy\assignment 5\assignment 4 looping and arrays\bin\Debug\assignment 4 looping and arrays.exe
+C:\source\LINGamy\assignment 5\assignment 4 looping and arrays\bin\Debug\assignment 4 looping and arrays.pdb
+C:\source\LINGamy\assignment 5\assignment 4 looping and arrays\obj\Debug\assignment 4 looping and arrays.csprojResolveAssemblyReference.cache
+C:\source\LINGamy\assignment 5\assignment 4 looping and arrays\obj\Debug\assignment 4 looping and arrays.exe
+C:\source\LINGamy\assignment 5\assignment 4 looping and arrays\obj\Debug\assignment 4 looping and arrays.pdb
