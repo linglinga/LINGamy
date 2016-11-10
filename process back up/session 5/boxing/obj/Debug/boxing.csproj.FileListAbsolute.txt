@@ -1,0 +1,9 @@
+C:\source\LINGamy\assignment 5\boxing\bin\Debug\boxing.exe.config
+C:\source\LINGamy\assignment 5\boxing\bin\Debug\boxing.exe
+C:\source\LINGamy\assignment 5\boxing\bin\Debug\boxing.pdb
+C:\source\LINGamy\assignment 5\boxing\obj\Debug\boxing.csprojResolveAssemblyReference.cache
+C:\source\LINGamy\assignment 5\boxing\obj\Debug\boxing.exe
+C:\source\LINGamy\assignment 5\boxing\obj\Debug\boxing.pdb
+C:\source\LINGamy\process back up\assignment 5\boxing\bin\Debug\boxing.exe.config
+C:\source\LINGamy\process back up\assignment 5\boxing\obj\Debug\boxing.exe
+C:\source\LINGamy\process back up\assignment 5\boxing\obj\Debug\boxing.pdb

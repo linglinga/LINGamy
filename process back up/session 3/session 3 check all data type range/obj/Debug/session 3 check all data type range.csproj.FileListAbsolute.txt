@@ -1,0 +1,9 @@
+C:\source\LINGamy\assignment 3\session 3 check all data type range\bin\Debug\session 3 check all data type range.exe.config
+C:\source\LINGamy\assignment 3\session 3 check all data type range\bin\Debug\session 3 check all data type range.exe
+C:\source\LINGamy\assignment 3\session 3 check all data type range\bin\Debug\session 3 check all data type range.pdb
+C:\source\LINGamy\assignment 3\session 3 check all data type range\obj\Debug\session 3 check all data type range.csprojResolveAssemblyReference.cache
+C:\source\LINGamy\assignment 3\session 3 check all data type range\obj\Debug\session 3 check all data type range.exe
+C:\source\LINGamy\assignment 3\session 3 check all data type range\obj\Debug\session 3 check all data type range.pdb
+C:\source\LINGamy\process back up\assignment 3\session 3 check all data type range\bin\Debug\session 3 check all data type range.exe.config
+C:\source\LINGamy\process back up\assignment 3\session 3 check all data type range\obj\Debug\session 3 check all data type range.exe
+C:\source\LINGamy\process back up\assignment 3\session 3 check all data type range\obj\Debug\session 3 check all data type range.pdb

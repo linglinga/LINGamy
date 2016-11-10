@@ -1,0 +1,9 @@
+C:\source\LINGamy\assignment 3\session 3 string formating\bin\Debug\session 3 string formating.exe.config
+C:\source\LINGamy\assignment 3\session 3 string formating\bin\Debug\session 3 string formating.exe
+C:\source\LINGamy\assignment 3\session 3 string formating\bin\Debug\session 3 string formating.pdb
+C:\source\LINGamy\assignment 3\session 3 string formating\obj\Debug\session 3 string formating.csprojResolveAssemblyReference.cache
+C:\source\LINGamy\assignment 3\session 3 string formating\obj\Debug\session 3 string formating.exe
+C:\source\LINGamy\assignment 3\session 3 string formating\obj\Debug\session 3 string formating.pdb
+C:\source\LINGamy\process back up\assignment 3\session 3 string formating\bin\Debug\session 3 string formating.exe.config
+C:\source\LINGamy\process back up\assignment 3\session 3 string formating\obj\Debug\session 3 string formating.exe
+C:\source\LINGamy\process back up\assignment 3\session 3 string formating\obj\Debug\session 3 string formating.pdb

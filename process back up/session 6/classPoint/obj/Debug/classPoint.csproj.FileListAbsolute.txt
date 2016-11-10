@@ -1,0 +1,6 @@
+C:\source\LINGamy\assignment 6\classPoint\bin\Debug\classPoint.exe.config
+C:\source\LINGamy\assignment 6\classPoint\bin\Debug\classPoint.exe
+C:\source\LINGamy\assignment 6\classPoint\bin\Debug\classPoint.pdb
+C:\source\LINGamy\assignment 6\classPoint\obj\Debug\classPoint.csprojResolveAssemblyReference.cache
+C:\source\LINGamy\assignment 6\classPoint\obj\Debug\classPoint.exe
+C:\source\LINGamy\assignment 6\classPoint\obj\Debug\classPoint.pdb

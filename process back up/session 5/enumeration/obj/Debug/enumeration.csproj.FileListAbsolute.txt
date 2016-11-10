@@ -1,0 +1,9 @@
+C:\source\LINGamy\assignment 5\enumeration\bin\Debug\enumeration.exe.config
+C:\source\LINGamy\assignment 5\enumeration\bin\Debug\enumeration.exe
+C:\source\LINGamy\assignment 5\enumeration\bin\Debug\enumeration.pdb
+C:\source\LINGamy\assignment 5\enumeration\obj\Debug\enumeration.csprojResolveAssemblyReference.cache
+C:\source\LINGamy\assignment 5\enumeration\obj\Debug\enumeration.exe
+C:\source\LINGamy\assignment 5\enumeration\obj\Debug\enumeration.pdb
+C:\source\LINGamy\process back up\assignment 5\enumeration\bin\Debug\enumeration.exe.config
+C:\source\LINGamy\process back up\assignment 5\enumeration\obj\Debug\enumeration.exe
+C:\source\LINGamy\process back up\assignment 5\enumeration\obj\Debug\enumeration.pdb

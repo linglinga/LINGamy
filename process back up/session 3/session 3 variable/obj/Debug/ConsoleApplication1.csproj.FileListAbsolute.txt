@@ -1,0 +1,6 @@
+C:\source\LINGamy\assignment 3\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\source\LINGamy\assignment 3\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\source\LINGamy\assignment 3\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\source\LINGamy\assignment 3\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\source\LINGamy\assignment 3\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\source\LINGamy\assignment 3\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

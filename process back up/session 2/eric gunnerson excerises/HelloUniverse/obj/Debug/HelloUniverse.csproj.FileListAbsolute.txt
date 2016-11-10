@@ -1,0 +1,6 @@
+C:\source\LINGamy\process back up\assignment 2\eric gunnerson excerises\HelloUniverse\bin\Debug\HelloUniverse.exe.config
+C:\source\LINGamy\process back up\assignment 2\eric gunnerson excerises\HelloUniverse\bin\Debug\HelloUniverse.exe
+C:\source\LINGamy\process back up\assignment 2\eric gunnerson excerises\HelloUniverse\bin\Debug\HelloUniverse.pdb
+C:\source\LINGamy\process back up\assignment 2\eric gunnerson excerises\HelloUniverse\obj\Debug\HelloUniverse.csprojResolveAssemblyReference.cache
+C:\source\LINGamy\process back up\assignment 2\eric gunnerson excerises\HelloUniverse\obj\Debug\HelloUniverse.exe
+C:\source\LINGamy\process back up\assignment 2\eric gunnerson excerises\HelloUniverse\obj\Debug\HelloUniverse.pdb

@@ -1,0 +1,2 @@
+C:\source\LINGamy\assignment 4\combined\bin\Debug\combined.exe.config
+C:\source\LINGamy\process back up\assignment 4\combined\bin\Debug\combined.exe.config

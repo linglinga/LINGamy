@@ -1,0 +1,9 @@
+C:\source\LINGamy\assignment 4\ifElse\bin\Debug\ifElse.exe.config
+C:\source\LINGamy\assignment 4\ifElse\bin\Debug\ifElse.exe
+C:\source\LINGamy\assignment 4\ifElse\bin\Debug\ifElse.pdb
+C:\source\LINGamy\assignment 4\ifElse\obj\Debug\ifElse.csprojResolveAssemblyReference.cache
+C:\source\LINGamy\assignment 4\ifElse\obj\Debug\ifElse.exe
+C:\source\LINGamy\assignment 4\ifElse\obj\Debug\ifElse.pdb
+C:\source\LINGamy\process back up\assignment 4\ifElse\bin\Debug\ifElse.exe.config
+C:\source\LINGamy\process back up\assignment 4\ifElse\obj\Debug\ifElse.exe
+C:\source\LINGamy\process back up\assignment 4\ifElse\obj\Debug\ifElse.pdb

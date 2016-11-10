@@ -1,0 +1,12 @@
+C:\source\LINGamy\assignment 4\classwork 1\bin\Debug\classwork 1.exe.config
+C:\source\LINGamy\assignment 4\classwork 1\bin\Debug\classwork 1.exe
+C:\source\LINGamy\assignment 4\classwork 1\bin\Debug\classwork 1.pdb
+C:\source\LINGamy\assignment 4\classwork 1\obj\Debug\classwork 1.csprojResolveAssemblyReference.cache
+C:\source\LINGamy\assignment 4\classwork 1\obj\Debug\classwork 1.exe
+C:\source\LINGamy\assignment 4\classwork 1\obj\Debug\classwork 1.pdb
+C:\source\LINGamy\process back up\assignment 4\classwork 1\bin\Debug\classwork 1.exe.config
+C:\source\LINGamy\process back up\assignment 4\classwork 1\obj\Debug\classwork 1.exe
+C:\source\LINGamy\process back up\assignment 4\classwork 1\obj\Debug\classwork 1.pdb
+C:\source\LINGamy\process back up\assignment 4\classwork 1\bin\Debug\classwork 1.exe
+C:\source\LINGamy\process back up\assignment 4\classwork 1\bin\Debug\classwork 1.pdb
+C:\source\LINGamy\process back up\assignment 4\classwork 1\obj\Debug\classwork 1.csprojResolveAssemblyReference.cache

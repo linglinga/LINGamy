@@ -1,0 +1,6 @@
+C:\source\LINGamy\process back up\assignment 2\eric gunnerson excerises\p14Boxing\bin\Debug\p14Boxing.exe.config
+C:\source\LINGamy\process back up\assignment 2\eric gunnerson excerises\p14Boxing\bin\Debug\p14Boxing.exe
+C:\source\LINGamy\process back up\assignment 2\eric gunnerson excerises\p14Boxing\bin\Debug\p14Boxing.pdb
+C:\source\LINGamy\process back up\assignment 2\eric gunnerson excerises\p14Boxing\obj\Debug\p14Boxing.csprojResolveAssemblyReference.cache
+C:\source\LINGamy\process back up\assignment 2\eric gunnerson excerises\p14Boxing\obj\Debug\p14Boxing.exe
+C:\source\LINGamy\process back up\assignment 2\eric gunnerson excerises\p14Boxing\obj\Debug\p14Boxing.pdb

@@ -1,0 +1,9 @@
+C:\source\LINGamy\assignment 5\session 5 classwork 2\bin\Debug\session 5 classwork 2.exe.config
+C:\source\LINGamy\assignment 5\session 5 classwork 2\bin\Debug\session 5 classwork 2.exe
+C:\source\LINGamy\assignment 5\session 5 classwork 2\bin\Debug\session 5 classwork 2.pdb
+C:\source\LINGamy\assignment 5\session 5 classwork 2\obj\Debug\session 5 classwork 2.csprojResolveAssemblyReference.cache
+C:\source\LINGamy\assignment 5\session 5 classwork 2\obj\Debug\session 5 classwork 2.exe
+C:\source\LINGamy\assignment 5\session 5 classwork 2\obj\Debug\session 5 classwork 2.pdb
+C:\source\LINGamy\process back up\assignment 5\session 5 classwork 2\bin\Debug\session 5 classwork 2.exe.config
+C:\source\LINGamy\process back up\assignment 5\session 5 classwork 2\obj\Debug\session 5 classwork 2.exe
+C:\source\LINGamy\process back up\assignment 5\session 5 classwork 2\obj\Debug\session 5 classwork 2.pdb

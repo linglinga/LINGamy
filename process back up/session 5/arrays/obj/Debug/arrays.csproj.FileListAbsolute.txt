@@ -1,0 +1,12 @@
+C:\source\LINGamy\assignment 5\arrays\bin\Debug\arrays.exe.config
+C:\source\LINGamy\assignment 5\arrays\bin\Debug\arrays.exe
+C:\source\LINGamy\assignment 5\arrays\bin\Debug\arrays.pdb
+C:\source\LINGamy\assignment 5\arrays\obj\Debug\arrays.csprojResolveAssemblyReference.cache
+C:\source\LINGamy\assignment 5\arrays\obj\Debug\arrays.exe
+C:\source\LINGamy\assignment 5\arrays\obj\Debug\arrays.pdb
+C:\source\LINGamy\process back up\assignment 5\arrays\bin\Debug\arrays.exe.config
+C:\source\LINGamy\process back up\assignment 5\arrays\obj\Debug\arrays.exe
+C:\source\LINGamy\process back up\assignment 5\arrays\obj\Debug\arrays.pdb
+C:\source\LINGamy\process back up\assignment 5\arrays\bin\Debug\arrays.exe
+C:\source\LINGamy\process back up\assignment 5\arrays\bin\Debug\arrays.pdb
+C:\source\LINGamy\process back up\assignment 5\arrays\obj\Debug\arrays.csprojResolveAssemblyReference.cache

@@ -1,0 +1,12 @@
+C:\source\LINGamy\assignment 5\forEach\bin\Debug\forEach.exe.config
+C:\source\LINGamy\assignment 5\forEach\bin\Debug\forEach.exe
+C:\source\LINGamy\assignment 5\forEach\bin\Debug\forEach.pdb
+C:\source\LINGamy\assignment 5\forEach\obj\Debug\forEach.csprojResolveAssemblyReference.cache
+C:\source\LINGamy\assignment 5\forEach\obj\Debug\forEach.exe
+C:\source\LINGamy\assignment 5\forEach\obj\Debug\forEach.pdb
+C:\source\LINGamy\process back up\assignment 5\forEach\bin\Debug\forEach.exe.config
+C:\source\LINGamy\process back up\assignment 5\forEach\obj\Debug\forEach.exe
+C:\source\LINGamy\process back up\assignment 5\forEach\obj\Debug\forEach.pdb
+C:\source\LINGamy\process back up\assignment 5\forEach\bin\Debug\forEach.exe
+C:\source\LINGamy\process back up\assignment 5\forEach\bin\Debug\forEach.pdb
+C:\source\LINGamy\process back up\assignment 5\forEach\obj\Debug\forEach.csprojResolveAssemblyReference.cache

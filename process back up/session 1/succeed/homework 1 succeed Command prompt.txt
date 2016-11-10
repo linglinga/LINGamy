@@ -1,0 +1,44 @@
+Microsoft Windows [Version 10.0.14393]
+(c) 2016 Microsoft Corporation. All rights reserved.
+
+C:\Users\amy>cd..
+
+C:\Users>cd..
+
+C:\>md \source
+
+C:\>cd \source
+
+C:\source>git clone https://github.com/linglinga/LINGamy.git
+Cloning into 'LINGamy'...
+remote: Counting objects: 3, done.
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+Unpacking objects: 100% (3/3), done.
+
+C:\source>LINGamy
+'LINGamy' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\source>start .
+
+C:\source>gitex
+
+C:\source>cd LINGamy
+
+C:\source\LINGamy>gitex
+
+C:\source\LINGamy>git push
+Counting objects: 3, done.
+Delta compression using up to 8 threads.
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (3/3), 308 bytes | 0 bytes/s, done.
+Total 3 (delta 0), reused 0 (delta 0)
+To https://github.com/linglinga/LINGamy.git
+   1d18cc5..8c175e5  master -> master
+
+C:\source\LINGamy>git status
+On branch master
+Your branch is up-to-date with 'origin/master'.
+nothing to commit, working tree clean
+
+C:\source\LINGamy>

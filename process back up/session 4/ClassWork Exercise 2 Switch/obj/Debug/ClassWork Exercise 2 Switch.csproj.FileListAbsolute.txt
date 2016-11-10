@@ -1,0 +1,12 @@
+C:\source\LINGamy\assignment 4\ClassWork Exercise 2 Switch\bin\Debug\ClassWork Exercise 2 Switch.exe.config
+C:\source\LINGamy\assignment 4\ClassWork Exercise 2 Switch\bin\Debug\ClassWork Exercise 2 Switch.exe
+C:\source\LINGamy\assignment 4\ClassWork Exercise 2 Switch\bin\Debug\ClassWork Exercise 2 Switch.pdb
+C:\source\LINGamy\assignment 4\ClassWork Exercise 2 Switch\obj\Debug\ClassWork Exercise 2 Switch.csprojResolveAssemblyReference.cache
+C:\source\LINGamy\assignment 4\ClassWork Exercise 2 Switch\obj\Debug\ClassWork Exercise 2 Switch.exe
+C:\source\LINGamy\assignment 4\ClassWork Exercise 2 Switch\obj\Debug\ClassWork Exercise 2 Switch.pdb
+C:\source\LINGamy\process back up\assignment 4\ClassWork Exercise 2 Switch\bin\Debug\ClassWork Exercise 2 Switch.exe.config
+C:\source\LINGamy\process back up\assignment 4\ClassWork Exercise 2 Switch\obj\Debug\ClassWork Exercise 2 Switch.exe
+C:\source\LINGamy\process back up\assignment 4\ClassWork Exercise 2 Switch\obj\Debug\ClassWork Exercise 2 Switch.pdb
+C:\source\LINGamy\process back up\assignment 4\ClassWork Exercise 2 Switch\bin\Debug\ClassWork Exercise 2 Switch.exe
+C:\source\LINGamy\process back up\assignment 4\ClassWork Exercise 2 Switch\bin\Debug\ClassWork Exercise 2 Switch.pdb
+C:\source\LINGamy\process back up\assignment 4\ClassWork Exercise 2 Switch\obj\Debug\ClassWork Exercise 2 Switch.csprojResolveAssemblyReference.cache

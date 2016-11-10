@@ -1,0 +1,6 @@
+C:\source\LINGamy\assignment 6\session6ex2\bin\Debug\session6ex2.exe.config
+C:\source\LINGamy\assignment 6\session6ex2\bin\Debug\session6ex2.exe
+C:\source\LINGamy\assignment 6\session6ex2\bin\Debug\session6ex2.pdb
+C:\source\LINGamy\assignment 6\session6ex2\obj\Debug\session6ex2.csprojResolveAssemblyReference.cache
+C:\source\LINGamy\assignment 6\session6ex2\obj\Debug\session6ex2.exe
+C:\source\LINGamy\assignment 6\session6ex2\obj\Debug\session6ex2.pdb

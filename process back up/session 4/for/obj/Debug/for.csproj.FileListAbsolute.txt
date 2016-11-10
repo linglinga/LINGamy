@@ -1,0 +1,9 @@
+C:\source\LINGamy\assignment 4\for\bin\Debug\@for.exe.config
+C:\source\LINGamy\assignment 4\for\bin\Debug\@for.exe
+C:\source\LINGamy\assignment 4\for\bin\Debug\@for.pdb
+C:\source\LINGamy\assignment 4\for\obj\Debug\for.csprojResolveAssemblyReference.cache
+C:\source\LINGamy\assignment 4\for\obj\Debug\@for.exe
+C:\source\LINGamy\assignment 4\for\obj\Debug\@for.pdb
+C:\source\LINGamy\process back up\assignment 4\for\bin\Debug\@for.exe.config
+C:\source\LINGamy\process back up\assignment 4\for\obj\Debug\@for.exe
+C:\source\LINGamy\process back up\assignment 4\for\obj\Debug\@for.pdb

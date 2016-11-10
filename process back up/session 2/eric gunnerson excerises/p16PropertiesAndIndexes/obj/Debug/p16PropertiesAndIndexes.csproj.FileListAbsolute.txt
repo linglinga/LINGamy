@@ -1,0 +1,6 @@
+C:\source\LINGamy\process back up\assignment 2\eric gunnerson excerises\p16PropertiesAndIndexes\bin\Debug\p16PropertiesAndIndexes.exe.config
+C:\source\LINGamy\process back up\assignment 2\eric gunnerson excerises\p16PropertiesAndIndexes\bin\Debug\p16PropertiesAndIndexes.exe
+C:\source\LINGamy\process back up\assignment 2\eric gunnerson excerises\p16PropertiesAndIndexes\bin\Debug\p16PropertiesAndIndexes.pdb
+C:\source\LINGamy\process back up\assignment 2\eric gunnerson excerises\p16PropertiesAndIndexes\obj\Debug\p16PropertiesAndIndexes.csprojResolveAssemblyReference.cache
+C:\source\LINGamy\process back up\assignment 2\eric gunnerson excerises\p16PropertiesAndIndexes\obj\Debug\p16PropertiesAndIndexes.exe
+C:\source\LINGamy\process back up\assignment 2\eric gunnerson excerises\p16PropertiesAndIndexes\obj\Debug\p16PropertiesAndIndexes.pdb

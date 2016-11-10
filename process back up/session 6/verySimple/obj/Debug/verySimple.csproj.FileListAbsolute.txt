@@ -1,0 +1,6 @@
+C:\source\LINGamy\assignment 6\verySimple\bin\Debug\verySimple.exe.config
+C:\source\LINGamy\assignment 6\verySimple\bin\Debug\verySimple.exe
+C:\source\LINGamy\assignment 6\verySimple\bin\Debug\verySimple.pdb
+C:\source\LINGamy\assignment 6\verySimple\obj\Debug\verySimple.csprojResolveAssemblyReference.cache
+C:\source\LINGamy\assignment 6\verySimple\obj\Debug\verySimple.exe
+C:\source\LINGamy\assignment 6\verySimple\obj\Debug\verySimple.pdb

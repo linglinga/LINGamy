@@ -1,0 +1,2 @@
+C:\source\LINGamy\process back up\assignment 2\eric gunnerson excerises\p15Emun\bin\Debug\p15Emun.exe.config
+C:\source\LINGamy\process back up\assignment 2\eric gunnerson excerises\p15Emun\obj\Debug\p15Emun.csprojResolveAssemblyReference.cache

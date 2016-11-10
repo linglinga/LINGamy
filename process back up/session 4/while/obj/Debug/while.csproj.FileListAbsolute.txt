@@ -1,0 +1,7 @@
+C:\source\LINGamy\assignment 4\while\bin\Debug\@while.exe.config
+C:\source\LINGamy\process back up\assignment 4\while\bin\Debug\@while.exe.config
+C:\source\LINGamy\process back up\assignment 4\while\bin\Debug\@while.exe
+C:\source\LINGamy\process back up\assignment 4\while\bin\Debug\@while.pdb
+C:\source\LINGamy\process back up\assignment 4\while\obj\Debug\while.csprojResolveAssemblyReference.cache
+C:\source\LINGamy\process back up\assignment 4\while\obj\Debug\@while.exe
+C:\source\LINGamy\process back up\assignment 4\while\obj\Debug\@while.pdb
