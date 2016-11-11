@@ -1,0 +1,6 @@
+C:\source\LINGamy\session 5\assigment 4 updated\bin\Debug\assigment 4 updated.exe.config
+C:\source\LINGamy\session 5\assigment 4 updated\bin\Debug\assigment 4 updated.exe
+C:\source\LINGamy\session 5\assigment 4 updated\bin\Debug\assigment 4 updated.pdb
+C:\source\LINGamy\session 5\assigment 4 updated\obj\Debug\assigment 4 updated.csprojResolveAssemblyReference.cache
+C:\source\LINGamy\session 5\assigment 4 updated\obj\Debug\assigment 4 updated.exe
+C:\source\LINGamy\session 5\assigment 4 updated\obj\Debug\assigment 4 updated.pdb
