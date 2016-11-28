@@ -1,0 +1,6 @@
+C:\source\LINGamy\session 7\assignment 6 structure\bin\Debug\assignment 6 structure.exe.config
+C:\source\LINGamy\session 7\assignment 6 structure\bin\Debug\assignment 6 structure.exe
+C:\source\LINGamy\session 7\assignment 6 structure\bin\Debug\assignment 6 structure.pdb
+C:\source\LINGamy\session 7\assignment 6 structure\obj\Debug\assignment 6 structure.csprojResolveAssemblyReference.cache
+C:\source\LINGamy\session 7\assignment 6 structure\obj\Debug\assignment 6 structure.exe
+C:\source\LINGamy\session 7\assignment 6 structure\obj\Debug\assignment 6 structure.pdb
