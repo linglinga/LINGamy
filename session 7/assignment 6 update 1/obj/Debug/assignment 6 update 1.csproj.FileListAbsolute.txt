@@ -1,0 +1,6 @@
+C:\source\LINGamy\session 7\assignment 6 update 1\bin\Debug\assignment 6 update 1.exe.config
+C:\source\LINGamy\session 7\assignment 6 update 1\bin\Debug\assignment 6 update 1.exe
+C:\source\LINGamy\session 7\assignment 6 update 1\bin\Debug\assignment 6 update 1.pdb
+C:\source\LINGamy\session 7\assignment 6 update 1\obj\Debug\assignment 6 update 1.csprojResolveAssemblyReference.cache
+C:\source\LINGamy\session 7\assignment 6 update 1\obj\Debug\assignment 6 update 1.exe
+C:\source\LINGamy\session 7\assignment 6 update 1\obj\Debug\assignment 6 update 1.pdb
