@@ -1,0 +1,6 @@
+C:\source\LINGamy\LINGamyFinalClassProject4\bin\Debug\LINGamyFinalClassProject4.exe.config
+C:\source\LINGamy\LINGamyFinalClassProject4\obj\Debug\LINGamyFinalClassProject4.csprojResolveAssemblyReference.cache
+C:\source\LINGamy\LINGamyFinalClassProject4\bin\Debug\LINGamyFinalClassProject4.exe
+C:\source\LINGamy\LINGamyFinalClassProject4\bin\Debug\LINGamyFinalClassProject4.pdb
+C:\source\LINGamy\LINGamyFinalClassProject4\obj\Debug\LINGamyFinalClassProject4.exe
+C:\source\LINGamy\LINGamyFinalClassProject4\obj\Debug\LINGamyFinalClassProject4.pdb
